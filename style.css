@@ -1,0 +1,29 @@
+body  {background-image: url('https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?w=2000');
+background-repeat: repeat;  
+  font-family: 'K2D', sans-serif;
+}
+  mainpige {width: 1024px; margin: 0 auto;}
+
+  {
+ background-color: black;
+  color:white;
+    height: 70px;
+  padding: 10px;
+   }
+footer {
+     background-color:grey;
+     color:rgb(240, 133, 33);
+     height:70px;
+     padding:10px;
+     text-align: center;
+}
+  
+ .mainpage 
+ {
+     width:1024px;
+     margin:0 auto;
+ }
+
+ .headname{
+     color: rgb(255, 138, 138);
+ }
