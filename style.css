@@ -15,7 +15,7 @@ Body {
 
   footer {
    background-color:grey;
-   color:rgb(211, 113, 74);
+   color:rgba(230, 58, 28, 0.932);
    height:70px;
    padding:10px;
    text-align: center;
@@ -28,11 +28,11 @@ Body {
 }
 
 .headname{
-   color: rgba(223, 64, 15, 0.884);
+   color: rgba(230, 23, 8, 0.979);
    size: 30px;
 }
 .headname1{
-  color: rgb(74, 113, 240);
+  color: rgba(43, 29, 230, 0.925);
 }
 
 
