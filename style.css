@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGAt7_9CuDdF5H_hosEZIz1hn52nUb9JoWQ&usqp=CAU');
   background-repeat: repeat;
   background-size: cover;
   font-family: 'Kanit', sans-serif;
@@ -46,7 +46,7 @@ padding: auto;
 }
 
 .maps{
-border: 1px solid #ccc;
+border: 1px solid rgb(138, 133, 133);
 height: 300px;
 }
 
@@ -61,7 +61,7 @@ border-radius: 10px;
 }
 
 .topmenu{
-background-color: pink;
+background-color: rgb(252, 114, 137);
 height: 40px;
 }
 
